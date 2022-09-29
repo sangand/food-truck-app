@@ -1,0 +1,14 @@
+.food-truck-list .list-type {
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.food-truck-list .list-type .all-trucks-option {
+    margin-left: 2rem;
+}
+
+.food-truck-list th, 
+.food-truck-list td {
+    width: 10rem;
+    text-align: left;
+}

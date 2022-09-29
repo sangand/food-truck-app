@@ -1,0 +1,25 @@
+.food-truck-form {
+    width: 20rem;
+}
+
+.food-truck-form .form-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.food-truck-form .form-field {
+    margin-bottom: 0.75rem;
+}
+
+.food-truck-form .form-field .form-field-label {
+    margin-bottom: 0.25rem;
+}
+
+.food-truck-form .footer {
+    margin-top: 1rem;
+}
+
+.food-truck-form .footer button {
+    margin-right: 1rem;
+}
